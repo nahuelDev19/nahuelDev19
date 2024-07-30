@@ -62,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,spring,bootstrap,gmail,mysql,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,idea,vscode,java,spring,postman,mysql,bootstrap,css,html,gmail,discord,github" />
   </a>
 </p>
 
