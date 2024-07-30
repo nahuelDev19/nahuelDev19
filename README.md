@@ -10,11 +10,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -66,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,mysql,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,java,springboot,mysql,postman,vscode" />
   </a>
 </p>
 
