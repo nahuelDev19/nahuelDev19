@@ -32,7 +32,7 @@
 
 - 📫 No dudes en ponerte en contacto conmigo **nahuel.perea.dev@gmail.com**
 
-🏠 No dudes en dejarme un **👋** en Discord – <a href="https://discordapp.com/users/957722095381540874">Discord</a> my username!
+🏠 No dudes en dejarme un **👋** en Discord – <a href="https://discordapp.com/users/957722095381540874">my username</a>!
 - Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 <!--Intro end-->
